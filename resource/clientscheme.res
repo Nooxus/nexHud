@@ -2857,7 +2857,7 @@ Scheme
 		}
 		
 		//
-		//////////////////// ECON FONTS //////////////////////////////
+		////////////////////   //////////////////////////////
 		//
 		"EconFontSmall"
 		{
@@ -2999,7 +2999,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		//Biko Black Fonts
 		
 		SairaCondensedBlack36
 		{
@@ -3064,12 +3063,93 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		RobotoRegular56
+		CodeLight36
 		{
 			"1"
 			{
-				"name"		"Roboto"
-				"tall"		"56"
+				"name"		"Code-Light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		CodeLight24
+		{
+			"1"
+			{
+				"name"		"Code-Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		CodeBold36
+		{
+			"1"
+			{
+				"name"		"Code-Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		CodeLight28
+		{
+			"1"
+			{
+				"name"		"Code-Light"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		TheLightFont36
+		{
+			"1"
+			{
+				"name"		"The Light Font"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		LemonMilk36
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		LemonMilk48
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		LemonMilk20
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		LemonMilkLight36
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		LemonMilkBold36
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk bold"
+				"tall"		"36"
 				"antialias" "1"
 			}
 		}
@@ -5633,6 +5713,46 @@ Scheme
 		{
 			"font" "resource/fonts/Roboto-Regular.ttf"
 			"name" "Roboto"
+		}"14"
+		{
+			"font" "resource/fonts/Orbitron-Regular.ttf"
+			"name" "OrbitronRegular"
+		}"15"
+		{
+			"font" "resource/fonts/Orbitron-Bold.ttf"
+			"name" "OrbitronBold"
+		}"16"
+		{
+			"font" "resource/fonts/Orbitron-Black.ttf"
+			"name" "OrbitronBlack"
+		}"17"
+		{
+			"font" "resource/fonts/LemonMilkbold.otf"
+			"name" "Lemon/Milk bold"
+		}"18"
+		{
+			"font" "resource/fonts/LemonMilklight.otf"
+			"name" "Lemon/Milk light"
+		}"19"
+		{
+			"font" "resource/fonts/CODE Light.otf"
+			"name" "Code-Light"
+		}"20"
+		{
+			"font" "resource/fonts/CODE Bold.otf"
+			"name" "Code-Bold"
+		}"21"
+		{
+			"font" "resource/fonts/TheLightFont.ttf"
+			"name" "The Light Font"
+		}"22"
+		{
+			"font" "resource/fonts/LemonMilk.otf"
+			"name" "Lemon/Milk"
+		}"23"
+		{
+			"font" "resource/fonts/Offerings Regular.otf"
+			"name" "Offerings"
 		}
 	}
 }
