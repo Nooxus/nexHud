@@ -173,4 +173,28 @@
 			"visible"	"0"
 		}
 	}	
+	"TeamIndicator"
+    {
+        "ControlName"       "CTFImagePanel"
+        "fieldName"     "TeamIndicator"
+        "xpos"          "5"  
+        "ypos"          "36"
+        "zpos"          "51"
+        "wide"          "85"
+        "tall"          "4"
+        "autoResize"        "0"
+        "pinCorner"     "0"
+        "visible"       "1"
+        "enabled"       "1"
+        "image"         "../hud/color_panel_brown"
+        "scaleImage"        "1"
+        "teambg_1"      "../hud/color_panel_brown"
+        "teambg_2"      "../hud/color_panel_red"
+        "teambg_3"      "../hud/color_panel_blu"
+
+        "src_corner_height"     "23"
+        "src_corner_width"      "23"
+        "draw_corner_width"     "0"
+        "draw_corner_height"    "0"
+    }
 }

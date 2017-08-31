@@ -7,7 +7,7 @@
 		"fieldName"		"HudPlayerHealth"
 		"xpos"			"60"		[$WIN32]
 		"xpos_minmode"	"-5"		[$WIN32]
-		"ypos"			"143"	[$WIN32]
+		"ypos"			"146"	[$WIN32]
 		"ypos_minmode"	"r88"	[$WIN32]
 		"xpos"			"32"	[$X360]
 		"ypos"			"r144"	[$X360]
@@ -25,8 +25,7 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"HealthBG"
 		"xpos"			"158"
-		"ypos"			"82"
-		"ypos_minmode"  "304"
+		"ypos"			"78"
 		"zpos"			"-1"
 		"wide"			"85"
 		"tall"			"37"
@@ -44,7 +43,7 @@
         "ControlName"       "CTFImagePanel"
         "fieldName"     "TeamIndicator"
         "xpos"          "158"  
-        "ypos"          "116"
+        "ypos"          "115"
         "zpos"          "51"
         "wide"          "85"
         "tall"          "4"
@@ -119,9 +118,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"76"
-		"xpos_minmode"	"61"
-		"ypos"			"38"	[$WIN32]
-		"ypos"			"55"	[$X360]
+		"ypos"			"35"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"250"
 		"tall"			"125"
@@ -131,7 +128,24 @@
 		"textAlignment"	"center"	
 		"font"			"LemonMilk48"
 		"fgcolor"		"White"
-	}								
+	}			
+	"PlayerStatusHealthValueShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthValueShadow"
+		"xpos"			"78"
+		"xpos"			"78"
+		"ypos"			"37"
+		"zpos"			"5"
+		"wide"			"250"
+		"tall"			"125"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"center"	
+		"font"			"LemonMilk48"
+		"fgcolor"		"TransparentBlack"
+	}			
 	"PlayerStatusBleedImage"
 	{
 		"ControlName"	"ImagePanel"

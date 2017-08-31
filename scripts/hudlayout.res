@@ -44,6 +44,7 @@
 		"tall"	"160"
 		
 		"blue_active_xpos"			"16"
+		"blue_active_xpos"			"16"
 		"blue_active_xpos_minmode"	"55"
 	
 		"red_active_xpos"			"106"
@@ -56,13 +57,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r50"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
-		"wide"			"100"
-		"tall"			"50"
+		"wide"			"300"
+		"tall"			"150"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
