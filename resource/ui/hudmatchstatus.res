@@ -211,7 +211,7 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"BGFrame"
-		"xpos"				"cs-0.5"
+		"xpos"				""
 		"ypos"				"-5"
 		"zpos"				"0"
 		"wide"				"365"
@@ -231,28 +231,28 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"c-55"
+		"xpos"				"-43"
 		"xpos_hidef"		"c-150"
 		"xpos_lodef"		"c-150"
-		"ypos"				"0"	[$WIN32]
+		"ypos"				"-23"	[$WIN32]
 		"ypos_minmode"		"-14"	[$WIN32]
 		"zpos"				"2"
-		"wide"				"110"
+		"wide"				"250"
 		"tall"				"150"
 		"visible"			"0"
 		"enabled"			"1"
-		"delta_item_x"			"22"	[$WIN32]
+		"delta_item_x"			"47"	[$WIN32]
 		"delta_item_start_y"	"50"
 		"delta_item_end_y"		"70"
 		"PositiveColor"			"0 255 0 255"
 		"NegativeColor"			"255 0 0 255"
 		"delta_lifetime"		"1.5"
-		"delta_item_font"		"HudFontMedium"
+		"delta_item_font"		"LemonMilk36"
 
 		if_match
 		{
-			"xpos"					"cs-0.5"
-			"wide"					"130"
+			"xpos"					"36"
+			"wide"					"200"
 			"ypos_minmode"			"0"
 			"delta_item_x"			"35"
 			"delta_item_start_y"	"12"
@@ -260,7 +260,7 @@
 			"PositiveColor"			"0 255 0 255"
 			"NegativeColor"			"255 0 0 255"
 			"delta_lifetime"		"1.5"
-			"delta_item_font"		"HudFontMediumSmall"
+			"delta_item_font"		"LemonMilk12"
 		}
 		
 		"TimePanelValue"
@@ -268,15 +268,15 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"LemonMilk36"
-			"fgcolor"		"TanLight"
+			"fgcolor"		"White"
 			"xpos"			"23"
 			"xpos_minmode"	"39"
 			"ypos"			"11"
 			"ypos_minmode"	"6"
 			"zpos"			"3"
-			"wide"			"55"
+			"wide"			"100"
 			"wide_minmode"	"30"
-			"tall"			"31"
+			"tall"			"50"
 			"visible"		"1"
 			"enabled"		"1"
 			"textAlignment"		"center"

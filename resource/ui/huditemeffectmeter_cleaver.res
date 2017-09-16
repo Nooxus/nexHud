@@ -5,8 +5,8 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r174"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
+		"xpos"			"r172"	[$WIN32]
+		"ypos"			"r73"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos_minmode"	"r68"	[$WIN32]
 		"x_offset_minmode"		"0"	[$WIN32]
@@ -42,8 +42,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"79"
-		"ypos"					"15"
+		"xpos"					"78"
+		"ypos"					"5"
 		"zpos"					"2"
 		"wide"					"120"
 		"tall"					"15"
@@ -68,8 +68,8 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"109"
-		"ypos"					"31"
+		"xpos"					"108"
+		"ypos"					"20"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"

@@ -6,8 +6,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 //		"x_offset"		"40"
-		"xpos"			"r258"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
+		"xpos"			"r85"	[$WIN32]
+		"ypos"			"r50"	[$WIN32]
 		"xpos_minmode"	"r52"	[$WIN32]
 		"ypos_minmode"	"r83"	[$WIN32]
 		"xpos"			"r194"	[$X360]
@@ -27,9 +27,9 @@
 		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_horiz3_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz3_red"
@@ -42,10 +42,10 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"40"
+		"xpos"					"27"
 		"ypos"					"25"
 		"zpos"					"2"
-		"wide"					"41"
+		"wide"					"60"
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
@@ -60,7 +60,7 @@
 		"textAlignment"			"center"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"TFFontSmall"
+		"font"					"LemonMilk20"
 	}
 
 	"ItemEffectMeter"
@@ -68,12 +68,12 @@
 		"ControlName"			"ContinuousProgressBar"
 		"fieldName"				"ItemEffectMeter"
 		"font"					"Default"
-		"xpos"					"47"
-		"ypos"					"23"
+		"xpos"					"34"
+		"ypos"					"40"
 		"ypos_minmode"			"0"
 		"xpos_minmode"			"0"
 		"zpos"					"2"
-		"wide"					"30"
+		"wide"					"48"
 		"wide_minmode"			"50"
 		"tall"					"5"				
 		"autoResize"			"0"

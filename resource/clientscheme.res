@@ -2943,168 +2943,22 @@ Scheme
 				"dropshadow"	"1"
 			}
 		}
-	
-
-		SairaCondensedRegular12
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Regular"
-				"tall"		"12"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedRegular16
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Regular"
-				"tall"		"16"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedRegular26
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Regular"
-				"tall"		"26"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedRegular32
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Regular"
-				"tall"		"32"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedRegular36
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Regular"
-				"tall"		"36"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedRegular48
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Regular"
-				"tall"		"48"
-				"antialias" "1"
-			}
-		}
 		
-		SairaCondensedBlack36
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Black"
-				"tall"		"36"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedBlack26
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Black"
-				"tall"		"26"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedBlack56
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Black"
-				"tall"		"56"
-				"antialias" "1"
-			}
-		}
-		SairaCondensedBlack48
-		{
-			"1"
-			{
-				"name"		"Saira Condensed Black"
-				"tall"		"48"
-				"antialias" "1"
-			}
-		}
-		RobotoRegular26
-		{
-			"1"
-			{
-				"name"		"Roboto"
-				"tall"		"26"
-				"antialias" "1"
-			}
-		}
-		RobotoRegular36
-		{
-			"1"
-			{
-				"name"		"Roboto"
-				"tall"		"36"
-				"antialias" "1"
-			}
-		}
-		RobotoRegular48
-		{
-			"1"
-			{
-				"name"		"Roboto"
-				"tall"		"48"
-				"antialias" "1"
-			}
-		}
-		CodeLight36
-		{
-			"1"
-			{
-				"name"		"Code-Light"
-				"tall"		"36"
-				"antialias" "1"
-			}
-		}
-		CodeLight24
-		{
-			"1"
-			{
-				"name"		"Code-Light"
-				"tall"		"24"
-				"antialias" "1"
-			}
-		}
-		CodeBold36
-		{
-			"1"
-			{
-				"name"		"Code-Bold"
-				"tall"		"36"
-				"antialias" "1"
-			}
-		}
-		CodeLight28
-		{
-			"1"
-			{
-				"name"		"Code-Light"
-				"tall"		"28"
-				"antialias" "1"
-			}
-		}
 		TheLightFont36
 		{
 			"1"
 			{
 				"name"		"The Light Font"
 				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		TheLightFont24
+		{
+			"1"
+			{
+				"name"		"The Light Font"
+				"tall"		"24"
 				"antialias" "1"
 			}
 		}
@@ -3150,6 +3004,24 @@ Scheme
 			{
 				"name"		"Lemon/Milk bold"
 				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		LemonMilk12
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		LemonMilkBold24
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk bold"
+				"tall"		"24"
 				"antialias" "1"
 			}
 		}

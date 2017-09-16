@@ -10,8 +10,8 @@
 		"wide"			"500"
 		"tall"			"50"
 		"autoResize"	"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"PaintBackgroundType"	"2"
 		"bgcolor_override"	"46 43 42 160"	
 	}

@@ -1,4 +1,4 @@
-"Resource/UI/HudDemomanCharge.res"
+"Resource/UI/HudBowCharge.res"
 {	
 	"ChargeMeter"
 	{	
