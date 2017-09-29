@@ -26,7 +26,7 @@ Scheme
 		"TFOrange"			"145 73 59 255"
 
 		"QuestGold"			"208 147 75 255"
-		"HalloweenThemeColor2015_Light"	"238 126 17 255"
+		"HalloweenThemeColor2015_Light"	"238 126126 17 255"
 		"HalloweenThemeColor2015"		"135 54 16 255"
 		"HalloweenThemeColor2015_Dark"	"108 49 21 255"
 		"QuestStandardHighlight"	"0 255 0 255"
@@ -48,6 +48,8 @@ Scheme
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"
 		
+		"TeamRed"			"180 92 77 200"
+		"TeamBlue"			"104 124 155 200"
 		"HUDBlueTeam"		"104 124 155 127"
 		"HUDRedTeam"		"180 92 77 127"
 		"HUDSpectator"		"124 124 124 127"
@@ -58,10 +60,12 @@ Scheme
 		"HudOffWhite"		"200 187 161 255"
 		"HudBlack"			"65 65 65 255"
 		"ProgressBarBlue"	"91 122 142 255"
+		"HudOffWhiteTransparent"		"200 187 161 180"
 		
 		"CreditsGreen"		"94 150 49 255"
 		
 		"Gray"				"178 178 178 255"
+		"GrayTransparent"				"178 178 178 200"
 
 		"Blank"				"0 0 0 0"
 		"ForTesting"		"255 0 0 32"
@@ -2989,6 +2993,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		LemonMilk24
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
 		LemonMilkLight36
 		{
 			"1"
@@ -3013,6 +3026,15 @@ Scheme
 			{
 				"name"		"Lemon/Milk"
 				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		LemonMilk18
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}

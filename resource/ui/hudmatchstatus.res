@@ -231,10 +231,10 @@
 	{
 		"ControlName"		"EditablePanel"
 		"fieldName"			"ObjectiveStatusTimePanel"
-		"xpos"				"-43"
+		"xpos"				"350"
 		"xpos_hidef"		"c-150"
 		"xpos_lodef"		"c-150"
-		"ypos"				"-23"	[$WIN32]
+		"ypos"				"-30"	[$WIN32]
 		"ypos_minmode"		"-14"	[$WIN32]
 		"zpos"				"2"
 		"wide"				"250"
@@ -269,9 +269,9 @@
 			"fieldName"		"TimePanelValue"
 			"font"			"LemonMilk36"
 			"fgcolor"		"White"
-			"xpos"			"23"
+			"xpos"			"27"
 			"xpos_minmode"	"39"
-			"ypos"			"11"
+			"ypos"			"19"
 			"ypos_minmode"	"6"
 			"zpos"			"3"
 			"wide"			"100"
